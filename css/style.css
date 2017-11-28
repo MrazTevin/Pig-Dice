@@ -81,3 +81,12 @@
 .wrapper > div :nth-child(odd) {
   background: #ddd;
 }
+#displaydice{
+  font-size:10em:
+  padding:0;
+  margin:0;
+  height:163px
+}
+#main {
+  text-align:center;
+}
