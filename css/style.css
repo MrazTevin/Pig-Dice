@@ -11,3 +11,61 @@
   height:0;
   background: url("http://www.rebootreload.com/wp-content/uploads/2017/04/449-06-fancy-dice.jpg") no-repeat 50% 50% / cover;
 }
+/*contains style for my toggle panel*/
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+}
+#flip {
+  margin-top: 100px;
+  cursor:pointer;
+}
+
+#panel {
+    padding: 0;
+    display:none;
+}
+#zip, #play {
+    padding: 5px;
+    text-align: center;
+    background-color: #ffe4e1;
+    border: solid 1px #c3c3c3;
+}
+#zip {
+  cursor:pointer;
+}
+
+#play {
+    padding: 0;
+    display:none;
+}
+#tip, #day{
+    padding: 5px;
+    text-align: center;
+    background-color: #5f9ea0;
+    border: solid 1px #c3c3c3;
+}
+#tip {
+  cursor:pointer;
+}
+
+#day {
+    padding: 0;
+    display:none;
+}
+#lip, #lay{
+    padding: 5px;
+    text-align: center;
+    background-color: #f9f5ec;
+    border: solid 1px #c3c3c3;
+}
+#lip {
+  cursor:pointer;
+}
+
+#lay {
+    padding: 0;
+    display:none;
+}

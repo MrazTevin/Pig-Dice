@@ -1,0 +1,21 @@
+$(document).ready(function(){
+    $("#flip").click(function(){
+        $("#panel").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $("#zip").click(function(){
+        $("#play").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $("#tip").click(function(){
+        $("#day").slideToggle("slow");
+    });
+});
+$(document).ready(function(){
+    $("#lip").click(function(){
+        $("#lay").slideToggle("slow");
+    });
+});
+// the above is function for the slide toggle panels
